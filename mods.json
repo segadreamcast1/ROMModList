@@ -8,17 +8,15 @@
         "Name": "Mod Loader: BepInEx (x64)",
         "Description": "Unity / XNA game patcher and plugin framework",
         "DownloadUrl": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip"
-    }
-    
+    },
     {
-        "Name": "Mod Loader: BepInEx (x86)"
+        "Name": "Mod Loader: BepInEx (x86)",
         "Description": "Unity / XNA game patcher and plugin framework",
         "DownloadUrl": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x86_5.4.23.2.zip"
-    }   
-        
+    },
     {
         "Name": "Mod Loader: MelonLoader (Installer)",
-        "Description": "The World's First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono"
+        "Description": "The World's First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono",
         "DownloadUrl": "https://github.com/LavaGang/MelonLoader/releases/download/v0.6.4/MelonLoader.Installer.exe"
-    }   
+    }
 ]
