@@ -1,7 +1,7 @@
 [
     {
         "Name": "Put your mods here via GitHub",
-        "Description": "If you want to add your mod to this mod manager, you can do so!",
+        "Description": "If you want to add your mod to this mod manager, fork and make a pull request to segadreamcast1/ROMModList",
         "DownloadUrl": "https://github.com/segadreamcast1/ROMModList"
     },
     {
