@@ -26,19 +26,19 @@
     {
         "Name": "TestModDep1",
         "Description": "A test mod that depends on TestModDep2",
-        "DownloadUrl": "http://example.com/testmoddep1.zip",
+        "DownloadUrl": "https://github.com/segadreamcast1/ROMModList/releases/download/test/TestModDep1.zip",
         "Dependencies": ["TestModDep2"]
     },
     {
         "Name": "TestModDep2",
         "Description": "A test mod that depends on TestModDep3",
-        "DownloadUrl": "http://example.com/testmoddep2.zip",
+        "DownloadUrl": "https://github.com/segadreamcast1/ROMModList/releases/download/test/TestModDep2.zip",
         "Dependencies": ["TestModDep3"]
     },
     {
         "Name": "TestModDep3",
         "Description": "The final test mod with no dependencies",
-        "DownloadUrl": "http://example.com/testmoddep3.zip",
+        "DownloadUrl": "https://github.com/segadreamcast1/ROMModList/releases/download/test/TestModDep3.zip",
         "Dependencies": []
     }
 ]
